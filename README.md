@@ -1,5 +1,5 @@
 # 💫 About Me:
- I'm Viet, a full-stack developer 👨‍💻 <br>🔭 I’m currently working on a IELTS preparation website<br>🌱 I’m currently learning about GraphQL<br>❓ Ask me about anything related to MERN stack and related technologies
+ I'm Viet, a full-stack developer 👨‍💻 <br>🔭 I’m currently working on a IELTS preparation website<br>🌱 I’m currently learning about GraphQL<br>❓ Ask me about anything related to MERN stack and related technologies <br> Head over to my projects page to see what I have been working on!
 
 
 ## 🌐 Socials:
