@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 I'm Viet, a web developer @ 100devs and GDSC at La Trobe <br>🔭 I’m currently working on QuillPDF - a AI SaaS PDF reader product <br>🌱 I’m currently learning about the T3 stack <br>❓ Ask me about anything related to MERN or T3 stack and related technologies <br>📋 Head over to my repositories page to see what I have been working on!
+👨‍💻 I'm Viet, a web developer @ 100devs and GDSC at La Trobe <br>🔭 I’m currently working on QuillPDF - a AI SaaS PDF reader app <br>🌱 I’m currently learning about the T3 stack <br>❓ Ask me about anything related to MERN or T3 stack and related technologies <br>📋 Head over to my repositories page to see what I have been working on!
 
 
 ## 🌐 Socials:
